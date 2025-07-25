@@ -64,7 +64,7 @@ This project was created as part of a hands-on workshop on WordPress and Shopify
 ## 👤 Author
 
 **Mansi**  
-*Library & Information Science + Tech Background*
+*Library & Information Science + ADCA*
 
 - GitHub: https://github.com/ms-mansi
 - LinkedIn: www.linkedin.com/in/mansinewdelhi
