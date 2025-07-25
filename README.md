@@ -66,7 +66,9 @@ This project was created as part of a hands-on workshop on WordPress and Shopify
 **Mansi**  
 *Library & Information Science + ADCA*
 
-- GitHub: https://github.com/ms-mansi
-- LinkedIn: www.linkedin.com/in/mansinewdelhi
+GitHub: [github.com/ms-mansi](https://github.com/ms-mansi)
+
+LinkedIn: [linkedin.com/in/mansinewdelhi](www.linkedin.com/in/mansinewdelhi)
+
 
 ---
